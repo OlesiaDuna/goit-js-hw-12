@@ -18,7 +18,6 @@ export function scrollBy() {
   const element = document.querySelector('.gallery li');
   const result = element.getBoundingClientRect();
   const height = result.height * 2 + 24 * 3;
-  // console.log(result, height);
 
   window.scrollBy({
     top: height,
