@@ -134,10 +134,6 @@
 .gallery li img {
   aspect-ratio: 4 / 2;
 }
-/* .gallery a {
-  display: flex;
-  flex-grow: 1;
-} */
 
 .gallery .content {
   display: flex;
