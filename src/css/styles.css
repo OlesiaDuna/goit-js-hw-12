@@ -7,7 +7,6 @@
   padding-inline: 24px;
   width: 1176px;
   margin: 0 auto;
-  /* gap: 32px; */
   align-items: center;
 }
 #form-request {
@@ -134,7 +133,6 @@
 .gallery li img {
   aspect-ratio: 4 / 2;
 }
-
 .gallery .content {
   display: flex;
   padding: 4px 40px;
